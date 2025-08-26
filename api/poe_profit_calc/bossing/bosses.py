@@ -732,7 +732,7 @@ TheElderUberUber = Boss(
         BossItem(
             "Sublime Vision",
             "SublimeVision",
-            0.025,
+            0.01,
             Matcher(PoeWatchEndpoint.UNIQUE_JEWEL, "Unidentified Sublime Vision", ilvl=87),
         ),
         BossItem(
